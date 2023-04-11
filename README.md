@@ -46,7 +46,7 @@ vpn management link: http://211.73.81.220:8081/
 credential user = admin, password = Skile143
 
 ### client naming policy
-1. schoole name abbreviation at the begin(e.g. ntunhs, ntcu)
+1. organization name abbreviation at the begin(e.g. ntunhs, ntcu)
 2. whatever you want
 
 ![](https://i.imgur.com/AaITLQD.png)
