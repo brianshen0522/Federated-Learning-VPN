@@ -1,0 +1,8 @@
+[Unit]
+Description=vpn
+
+[Service]
+ExecStart=/usr/bin/vpn.sh
+
+[Install]
+WantedBy=multi-user.target
